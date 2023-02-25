@@ -16,4 +16,7 @@ b=200
 echo ${a}
 echo ${b}
 xyz hello shankar srinivas fuction
+echo ${b}
+xyz hello shankar srinivas fuction
+echo ${b}
 
