@@ -6,8 +6,14 @@ xyz () {
     echo all arg $*
     echo all arg $@
     echo number of arguments $#
+    b=300
+    echo " b from fuction ${b} "
 
 }
 
-# calling function
+a=100
+b=200
+echo ${a}
+echo ${b}
 xyz hello shankar srinivas fuction
+
