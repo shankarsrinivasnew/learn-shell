@@ -18,5 +18,6 @@ echo ${b}
 xyz hello shankar srinivas fuction
 echo ${b}
 xyz hello shankar srinivas fuction
+b=200
 echo ${b}
 
