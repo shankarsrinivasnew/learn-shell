@@ -7,5 +7,7 @@ fi
 
 if [ "${string}" == abc ]; then
 echo "string is string"
+else
+echo "string is not a valid abc string"
 fi
 
