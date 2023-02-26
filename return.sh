@@ -9,4 +9,3 @@ abc
 echo exit status of abc fuction : $?
 echo hello 4
 echo hello 5
-echo exit status of abc fuction
